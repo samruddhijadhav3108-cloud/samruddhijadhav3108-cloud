@@ -1,11 +1,12 @@
 ## Hi 👋 I'm Samruddhi Jadhav
 
-🎓 Student | Beginner in C++  
-💻 Learning C++ programming  
-📘 Practicing logic & problem solving  
-🌱 Goal: Become a skilled software developer  
+🎓 Student | Beginner in C++ & Python  
+💻 Learning programming & DSA  
+📘 Practicing problem-solving daily  
+🌱 Goal: Become a good programmer  
 
-### Languages
+### Languages:
 - C++
+- Python 🐍
 
-✨ Thanks for visiting my GitHub profile!
+📌 Check out my repositories below 👇
